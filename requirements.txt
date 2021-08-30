@@ -1,0 +1,6 @@
+bert4keras==0.10.6
+tensorflow==1.15
+Keras==2.3.1
+numpy==1.19.5
+scikit-learn==0.24.2
+tqdm
